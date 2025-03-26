@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9e91c6,100:9e91c6&height=180&text=Yeyun's%20Github!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 
-<!--
-**catomat0/catomat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=catomat0&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/catomat0"
+  width="600"
+  height="300"
+/>
+</a>
+</a>
+</div>
